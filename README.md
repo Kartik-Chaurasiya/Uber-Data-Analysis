@@ -36,7 +36,7 @@ For detailed code, refer to the following files:
 - [Data Exporter](mage files/uda_export.py)
 
 ## Data Visualization
-The processed data in BigQuery is visualized using Looker Studio. You can view the dashboard [here](https://lookerstudio.google.com/reporting/01481c8e-f8df-4310-936d-7e11163a4067).
+The processed data in BigQuery is visualized using Looker Studio. 
 
 ## Implementation Steps
 

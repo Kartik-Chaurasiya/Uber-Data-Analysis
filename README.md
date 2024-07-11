@@ -94,3 +94,5 @@ The processed data in BigQuery is visualized using Looker Studio.
 12. **Create Looker Studio dashboard**:
     - Connect to BigQuery dataset
     - Design and publish the dashboard
+
+Credits - Darshil Parmar (Youtube)
